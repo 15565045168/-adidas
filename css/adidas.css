@@ -79,6 +79,8 @@
 					}
 					
 					.caidan span {
+						display: inline-block;
+						overflow: hidden;
 						color: #FFFFFF;
 						font-size: 21px;
 						padding-left:30px;
@@ -112,6 +114,7 @@
 					
 					.hide1 {
 						
+						overflow: hidden;
 						width: 1350px;
 						height: 413px;
 						background: #000000;
