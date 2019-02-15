@@ -2,7 +2,9 @@
 						margin: 0;
 						padding: 0;
 					}
-					a{text-decoration: none;}
+					a{text-decoration: none;
+					   color:#FFFFFF;
+					}
 					
 					li {
 						list-style: none;
@@ -109,7 +111,7 @@
 					}
 					
 					.hide1 {
-						margin-top:40px;
+						
 						width: 1350px;
 						height: 413px;
 						background: #000000;
@@ -468,6 +470,34 @@
 						width:1350px;
 						height:506px;
 					}
+					.qingren{
+						background:url(../img/阿迪达斯官方商城_files/qingren.jpg)no-repeat center;
+					 width:1350px;
+					 height:505px;
+					 background-size:100% 100%;
+					
+					}
+					.qingren span{
+					  position:absolute;
+					}
+					.qingren span p{
+						display: block;
+						margin-left:1030px;
+						position:relative;
+						text-decoration: none;
+						font-size:15px;
+						color:#000000;
+					    margin-top:340px;
+					    width:160px;
+						height:50px;
+						line-height: 50px;
+						text-align: center;
+						background:#FFFFFF;
+					}
+					.qingren span p a{
+						font-size:15px;
+						color:#000000;
+					}
 					
 					video{
           width:1350px;
@@ -476,7 +506,28 @@
           z-index: -9999;
           /*灰色调*/
           /*-webkit-filter:grayscale(100%)*/
+
       }
+              .videohou{
+                    	overflow: hidden;
+                    	margin-top:24px;
+                    	background:url(../img/阿迪达斯官方商城_files/yi.jpg)no-repeat center;
+                    	width:1350px;
+                    	height:520px;
+                    	background-size:100% 100%;
+                    }
+                    .videohou span{
+                    	display:block;
+                    	width:165px;
+						height:45px;
+						background:#FFFFFF;
+						color:#000000;
+						margin-top:350px;
+						margin-left:600px;
+						text-align: center;
+						line-height:45px;
+                    	
+                    }
 					.beijing {
 						overflow: hidden;
 						height: 470px;
@@ -489,7 +540,7 @@
 						display: inline-block;
 						width: 640px;
 						height: 470px;
-						background: url(../img/阿迪达斯官方商城_files/924-480-pod.jpg)no-repeat center;
+						background:url(../img/阿迪达斯官方商城_files/yi1.jpg)no-repeat center;
 					}
 					
 					.beijing span:nth-child(2) {
@@ -585,7 +636,29 @@
 						margin-top:400px;
 						margin-left:240px;
 					}
+					.luhan{
+						width:1350px;
+						height:507px;
+						background:url(../img/阿迪达斯官方商城_files/yi2.jpg)no-repeat center;
+						background-size: 100% 100%;
+					}
+					.luhan p{
+						width:165px;
+						height:45px;
+						background:#FFFFFF;
+						color:#000000;
+						line-height:45px;
+						text-align: center;
+						font-size:20px;
+						margin-left:1030px;
+						margin-top:280px;
+						position:absolute;
+					}
+					.luhan p:first-child{
+						margin-top:350px;
+					}
 					.adidasneo{
+						margin-top:25px;
 						width:1350px;
 						height:507px;
 						background:url(../img/阿迪达斯官方商城_files/1920-720-adidasneo-Feb.jpg)no-repeat;
